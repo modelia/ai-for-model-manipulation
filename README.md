@@ -27,6 +27,7 @@ $ python mdeoperation.py --no_train --test_dataset /home/lola/experiments/models
 
 * **Loli Burgueño**
 * **Jordi Cabot**
+* **Shuai Li**
 * **Sébastien Gérard**
 
 ## License
