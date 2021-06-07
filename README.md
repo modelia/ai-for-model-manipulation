@@ -1,6 +1,6 @@
-# Model Manipulation Operations
+# Inferring Heterogeneous Model Transfromations
 
-Machine learning architecture for automatic model manipulation operations.
+Machine learning architecture for automatically inferring heterogeneous model transformations.
 
 ### Prerequisites
 
